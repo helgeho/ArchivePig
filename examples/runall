@@ -1,0 +1,13 @@
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 1.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 2.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 3.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 4.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 5.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 6.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 7.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 8.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 9.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 10.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 11.pig
+pig -x local -Dpig.additional.jars=/home/holzmann/pig/udf/archive-pig.jar 12.pig
+

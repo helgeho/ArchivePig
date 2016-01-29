@@ -1,0 +1,167 @@
+{
+    "url": "de,entspannungs-shop)\/store\/index.asp?id=%ed%9b%8c%258d7%2585x%25a3k5%2589%25dd%25e5%25%25d2'0fd%25b7%25a0%0f%25c9d%25cf",
+    "capture": {
+        "time": "2008-10-23T16:30:29.000+02:00",
+        "fullUrl": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8C%8D7%85x%A3k5%89%DD%E5%25%D2%270fd%B7%A0%0F%C9d%CF",
+        "type": "text\/html",
+        "status": 302,
+        "checksum": "AYOZ4UZOUARL6ER77CQ4JB4I5MDBPGF7",
+        "redirectUrl": "http:\/\/www.entspannungs-shop.de\/store\/index.asp?ID=%25ED%259B%258D%2583%253E%258Cw%25A1k5%2589%25DD%25E7%2525%25D2%25270fd%25B7%25A0%250F%25C8h%25CF%2507i%2588%25C7%25DD%2586%25213j%2525%25B6%258Bz%253B",
+        "meta": "-",
+        "response": {
+            "header": {
+                "length": "568",
+                "content-type": "text\/html",
+                "ip-address": "85.214.16.157",
+                "creation-date": "20081023163029",
+                "absolute-offset": "0",
+                "subject-uri": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8C%8D7%85x%A3k5%89%DD%E5%25%D2%270fd%B7%A0%0F%C9d%CF",
+                "version": null
+            },
+            "httpHeader": {
+                "Cache-control": "private",
+                "Date": "Thu, 23 Oct 2008 16:30:28 GMT",
+                "Content-Length": "236",
+                "Location": "\/store\/index.asp?ID=%ED%9B%8D%83%3E%8Cw%A1k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF%07i%88%C7%DD%86%213j%25%B6%8Bz%3B",
+                "Content-Type": "text\/html",
+                "Connection": "close",
+                "X-Powered-By": "ASP.NET",
+                "Server": "Microsoft-IIS\/6.0"
+            },
+            "payload": "[B@6090a8fd"
+        }
+    }
+}
+{
+    "url": "de,entspannungs-shop)\/store\/index.asp?id=%ed%9b%8c%258d9%258aq%25a0k5%2589%25dd%25e5%25%25d2'0fd%25b7%25a0%0f%25c9c%25cf%06i%2588%25c4%d7%86!3j%25%25b6%258bz;",
+    "capture": {
+        "time": "2008-10-23T16:42:19.000+02:00",
+        "fullUrl": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8C%8D9%8Aq%A0k5%89%DD%E5%25%D2%270fd%B7%A0%0F%C9c%CF%06i%88%C4%D7%86%213j%25%B6%8Bz%3B",
+        "type": "text\/html",
+        "status": 302,
+        "checksum": "XKRFWO3JNQPHUOMA5ZL4M7TZGZ6B3NDW",
+        "redirectUrl": "http:\/\/www.entspannungs-shop.de\/store\/index.asp?ID=%25ED%259B%258D%2583%253E%2588p%25A5k5%2589%25DD%25E7%2525%25D2%25270fd%25B7%25A0%250F%25C8h%25CF",
+        "meta": "-",
+        "response": {
+            "header": {
+                "length": "500",
+                "content-type": "text\/html",
+                "ip-address": "85.214.16.157",
+                "creation-date": "20081023164219",
+                "absolute-offset": "0",
+                "subject-uri": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8C%8D9%8Aq%A0k5%89%DD%E5%25%D2%270fd%B7%A0%0F%C9c%CF%06i%88%C4%D7%86%213j%25%B6%8Bz%3B",
+                "version": null
+            },
+            "httpHeader": {
+                "Cache-control": "private",
+                "Date": "Thu, 23 Oct 2008 16:42:17 GMT",
+                "Content-Length": "202",
+                "Location": "\/store\/index.asp?ID=%ED%9B%8D%83%3E%88p%A5k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF",
+                "Content-Type": "text\/html",
+                "Connection": "close",
+                "X-Powered-By": "ASP.NET",
+                "Server": "Microsoft-IIS\/6.0"
+            },
+            "payload": "[B@7ca25509"
+        }
+    }
+}
+{
+    "url": "de,entspannungs-shop)\/store\/index.asp?id=%ed%9b%8d%2583>%258cx%25a7k5%2589%25dd%25e7%25%25d2'0fd%25b7%25a0%0f%25c8h%25cf%07h%2588%25c5%dc%86!3j%25%25b6%258bz;",
+    "capture": {
+        "time": "2008-10-23T16:31:10.000+02:00",
+        "fullUrl": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3E%8Cx%A7k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF%07h%88%C5%DC%86%213j%25%B6%8Bz%3B",
+        "type": "text\/html",
+        "status": 200,
+        "checksum": "7Y3JD7QERV3URVK7UZSXDDLGOPUAMSKA",
+        "redirectUrl": "-",
+        "meta": "-",
+        "response": {
+            "header": {
+                "length": "26671",
+                "content-type": "text\/html",
+                "ip-address": "85.214.16.157",
+                "creation-date": "20081023163110",
+                "absolute-offset": "0",
+                "subject-uri": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3E%8Cx%A7k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF%07h%88%C5%DC%86%213j%25%B6%8Bz%3B",
+                "version": null
+            },
+            "httpHeader": {
+                "Cache-control": "private",
+                "Date": "Thu, 23 Oct 2008 16:31:09 GMT",
+                "Content-Length": "26474",
+                "Content-Type": "text\/html",
+                "Connection": "close",
+                "X-Powered-By": "ASP.NET",
+                "Server": "Microsoft-IIS\/6.0"
+            },
+            "payload": "[B@5200fae4"
+        }
+    }
+}
+{
+    "url": "de,entspannungs-shop)\/store\/index.asp?id=%ed%9b%8d%2583>%258cy%25ack5%2589%25dd%25e7%25%25d2'0fd%25b7%25a0%0f%25c8h%25cf%07k%2588%25c4%dc%86!3j%25%25b6%258bz;",
+    "capture": {
+        "time": "2008-10-23T16:32:20.000+02:00",
+        "fullUrl": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3E%8Cy%ACk5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF%07k%88%C4%DC%86%213j%25%B6%8Bz%3B",
+        "type": "text\/html",
+        "status": 200,
+        "checksum": "L3BVBRFRIK6NPWSVYJDBSXVOSO6IOZFU",
+        "redirectUrl": "-",
+        "meta": "-",
+        "response": {
+            "header": {
+                "length": "26671",
+                "content-type": "text\/html",
+                "ip-address": "85.214.16.157",
+                "creation-date": "20081023163220",
+                "absolute-offset": "0",
+                "subject-uri": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3E%8Cy%ACk5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8h%CF%07k%88%C4%DC%86%213j%25%B6%8Bz%3B",
+                "version": null
+            },
+            "httpHeader": {
+                "Cache-control": "private",
+                "Date": "Thu, 23 Oct 2008 16:32:20 GMT",
+                "Content-Length": "26474",
+                "Content-Type": "text\/html",
+                "Connection": "close",
+                "X-Powered-By": "ASP.NET",
+                "Server": "Microsoft-IIS\/6.0"
+            },
+            "payload": "[B@71253766"
+        }
+    }
+}
+{
+    "url": "de,entspannungs-shop)\/store\/index.asp?id=%ed%9b%8d%2583?%258eu%25a5k5%2589%25dd%25e7%25%25d2'0fd%25b7%25a0%0f%25c8i%25cf%04i%2588%25c4%d3%86!3j%25%25b6%258bz;",
+    "capture": {
+        "time": "2008-10-23T17:00:17.000+02:00",
+        "fullUrl": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3F%8Eu%A5k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8i%CF%04i%88%C4%D3%86%213j%25%B6%8Bz%3B",
+        "type": "text\/html",
+        "status": 200,
+        "checksum": "2SJOA3B7FHBODIJ5RADCJAUQMQGVHCDM",
+        "redirectUrl": "-",
+        "meta": "-",
+        "response": {
+            "header": {
+                "length": "26671",
+                "content-type": "text\/html",
+                "ip-address": "85.214.16.157",
+                "creation-date": "20081023170017",
+                "absolute-offset": "0",
+                "subject-uri": "http:\/\/www.entspannungs-shop.de:80\/store\/index.asp?ID=%ED%9B%8D%83%3F%8Eu%A5k5%89%DD%E7%25%D2%270fd%B7%A0%0F%C8i%CF%04i%88%C4%D3%86%213j%25%B6%8Bz%3B",
+                "version": null
+            },
+            "httpHeader": {
+                "Cache-control": "private",
+                "Date": "Thu, 23 Oct 2008 17:00:16 GMT",
+                "Content-Length": "26474",
+                "Content-Type": "text\/html",
+                "Connection": "close",
+                "X-Powered-By": "ASP.NET",
+                "Server": "Microsoft-IIS\/6.0"
+            },
+            "payload": "[B@30bc4845"
+        }
+    }
+}
